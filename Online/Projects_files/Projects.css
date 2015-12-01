@@ -1,3 +1,6 @@
+.style {
+    padding: 20px;
+}
 .paragraph_style {
     color: rgb(255, 255, 255);
     font-family: 'BigCaslon-Medium', 'Big Caslon', 'Times New Roman', serif;
@@ -7,7 +10,7 @@
     font-variant: normal;
     font-weight: 500;
     letter-spacing: 0;
-    line-height: 45px;
+    line-height: 38px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -24,9 +27,34 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_1 {
-    background: transparent;
+.paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Cochin-Bold', 'Cochin', 'Times New Roman', serif;
+    font-size: 60px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 84px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
     opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_1 {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.style_External_625_308 {
+    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -50,14 +78,13 @@
     text-indent: 0px;
     text-transform: none;
 }
-.graphic_image_style_default_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
+.graphic_textbox_layout_style_default_External_435_85 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_570_276 {
+.graphic_textbox_layout_style_default_External_625_308 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -67,18 +94,6 @@
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget0 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget0 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
 }
 .spacer {
     font-size: 1px;

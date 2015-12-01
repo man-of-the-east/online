@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="56B8142A-05EA-43B5-9F21-9D5AE7CE12ED">
+  <lastEdited clientType="local-build-20151201" date="2015-12-01 23:35:35 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Ponderings&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A Few Questions</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>    What makes a novel great? What about words brings them alive? What is in a story that it may touch a man&#x2019;s very should and shake him to the bone? Why are some paragraphs endlessly long yet concise, while short ones sometimes ramble forever? Why do words, so arranged on a page, produce rhythm, even poetry? And why should poetry affect us any different than prose? Does a letter have any power apart from the words it forms? Does reading silently kill the spirit of some words? Why do so many people struggle to read out loud? Why do writers often not like what they&#x2019;ve written? Why does the first letter of every sentence need to be capitalized? Why are stanzas not simply called paragraphs? Why does ink stick so well to paper, and black look best against white? Why do we prefer writing in pen and not in pencil? &#xD; Why must all things be analyzed?</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, December 1, 2015&lt;/b&gt;</richText>
+  </textBox>
+</content>
