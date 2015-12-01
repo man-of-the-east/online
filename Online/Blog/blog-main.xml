@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/joshuaeastman/Desktop/online/Online/Blog</link>
+    <description>    A rambling seeker of righteousness, 
+Reflecting and introspecting, 
+Seeking truth in all things, 
+Unveiling what is hidden, 
+Sharing what is good, 
+Pouring out love and longing, 
+Glorifying God with every word and sentiment. </description>
+    <item>
+      <title>Day of longboarding</title>
+      <link>file://localhost/Users/joshuaeastman/Desktop/online/Online/Blog/Entries/2015/11/24_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">f381d8ac-0139-477f-961e-92d458b1525f</guid>
+      <pubDate>Tue, 24 Nov 2015 10:21:26 -0500</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce &#x2028;a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, &#x2028;nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/joshuaeastman/Desktop/online/Online/Blog/Entries/2015/11/24_Day_of_longboarding.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/joshuaeastman/Desktop/online/Online/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
