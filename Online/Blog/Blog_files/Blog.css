@@ -1,13 +1,13 @@
 .paragraph_style {
     color: rgb(255, 255, 255);
     font-family: 'Cochin', 'Times New Roman', serif;
-    font-size: 19px;
+    font-size: 24px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 26px;
+    line-height: 34px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -25,14 +25,14 @@
 }
 .paragraph_style_1 {
     color: rgb(0, 0, 0);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
+    font-family: 'Cochin', 'Times New Roman', serif;
+    font-size: 26px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 36px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -40,13 +40,14 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: left;
+    text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_630_30 {
-    position: relative;
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
 }
 .style_SkipStroke {
     background: transparent;
@@ -55,6 +56,19 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_92_33 {
+    position: relative;
+}
+.style_External_86_33 {
+    position: relative;
+}
+.style_External_147_33 {
+    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -81,7 +95,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_435_191 {
+.Normal_External_505_275 {
     position: relative;
 }
 .Summary_Archive {
@@ -110,10 +124,23 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_630_30 {
+.graphic_textbox_layout_style_default_External_86_33 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_147_33 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_92_33 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_100_100 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -121,7 +148,7 @@
     opacity: 1.00;
 }
 a {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 a:visited {
@@ -129,17 +156,34 @@ a:visited {
     text-decoration: none;
 }
 a.class1 {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 a.class1:visited {
     text-decoration: none;
 }
 a.class1:hover {
-    color: rgb(4, 51, 255);
+    color: rgb(255, 255, 255);
+}
+a.class2 {
+    color: rgb(255, 255, 255);
+}
+a.class2:visited {
+    text-decoration: none;
+}
+a.class2:hover {
+    color: rgb(255, 255, 255);
+}
+a.class3 {
+    color: rgb(255, 255, 255);
+}
+a.class3:visited {
+    text-decoration: none;
+}
+a.class3:hover {
+    color: rgb(255, 255, 255);
 }
 a:hover {
-    color: rgb(4, 51, 255);
+    color: rgb(255, 255, 255);
     text-decoration: underline;
 }
 #widget0 .Summary_Title {
@@ -240,11 +284,11 @@ a:hover {
     text-transform: none;
 }
 #widget0 a:hover {
-    color: rgb(4, 51, 255);
+    color: rgb(255, 255, 255);
     text-decoration: underline;
 }
 #widget0 a {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 .bumper {
