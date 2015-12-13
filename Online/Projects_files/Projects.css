@@ -75,6 +75,28 @@
     background: transparent;
     opacity: 1.00;
 }
+.paragraph_style_3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Cochin-Bold', 'Cochin', 'Times New Roman', serif;
+    font-size: 51px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 72px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_External_625_308 {
     position: relative;
 }
@@ -113,7 +135,13 @@
 .graphic_textbox_layout_style_default_External_538_365 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_378_168 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_92_92 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_538_242 {
@@ -162,6 +190,10 @@ ol  {
           border: none;          
         }
 .bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
     font-size: 1px;
     line-height: 1px;
 }
